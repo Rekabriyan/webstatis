@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<title>Hasil Web Scrapping 2</title>
+        <!--Import library jquery-->
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	</head>
+	<body>
+        <h1>Top 100 Songs</h1>
+        <div id="Hasil_json"></div>
+	</body>
+    <script type="text/javascript">
+        $(function(){
+            //mengambil data dari file json
+            $.get('Top100.json',function(obj){
+                var str = "<table border=5>";
+                str +="<p><tr><td class='tables'>Rangking</td><td class='tables'>Judul</td><td class='tables'>Penyanyi</td><td class='tables'>Cover</td><td class='tables'>Waktu Scrapping</td></tr></p>";
+                $.each(obj,function(n,data){
+                    str +="<tr><td>" + data.Rangking + "</td>";
+                    str +="<td>" + data.Judul + "</td>";
+                    str +="<td class='tables'>" + data.Penyanyi + "</td>";
+                    str +="<td class='tables'>" + "<img src=" + data.Album + "></img></td>";
+                    str +="<td class='tables'>" + data.Waktu_scrapping + "</td></tr>";
+                });
+                str +="</table>";
+                $('#Hasil_json').html(str);
+            });
+        });
+    </script>
+</html>

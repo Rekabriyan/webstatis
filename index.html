@@ -50,6 +50,7 @@
         <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Education</span></a></li>
         <li><a href="#gallery" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Gallery</span></a></li>
         <li><a href="Hasil Scrapping.html" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Data Scrapping</span></a></li>
+        <li><a href="hasilscrapping2.html" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Data Scrapping 2</span></a></li>
         
       </ul>
     </nav><!-- .nav-menu -->
@@ -212,7 +213,7 @@
             </div>
           </div>
 
-    <!-- ======= Portfolio Section ======= -->
+    <!-- ======= Gallery Section ======= -->
     <section id="portfolio" class="portfolio section-bg">
       <div class="container" data-aos="fade-up">
 
@@ -351,12 +352,45 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div><br>
 
-        </div>
-
+        <span></div class = "col-md-8 col-md-offset-4 section-container-spacer"><span>
+        <span><h1 class="h2">Video Perkenalan Diri</h1><br><span>
+        <iframe width="656" height="369" src="https://www.youtube.com/embed/Pi3ugIZgZmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-    </section><!-- End Portfolio Section -->
+    </section><!-- End Gallery Section -->
+
+    <html>
+	<head>
+		<title>Hasil Web Scrapping</title>
+        <!--Import library jquery-->
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	</head>
+	<body>
+        <h1>Hasil Data Scrapping<h1>
+        <h1>Headline Republika Online</h1>
+        <div id="Hasil_json"></div>
+	</body>
+    <script type="text/javascript">
+        $(function(){
+            //mengambil data dari file json
+            $.get('Hasil.json',function(obj){
+                var str = "<table border=5>";
+                str +="<p><tr><td>No</td><td class='tables'>Judul Headline</td><td class='tables'>Kategori</td><td class='tables'>Waktu Publish</td><td class='tables'>Waktu Scrapping</td></tr></p>";
+                $.each(obj,function(n,data){
+                    str +="<tr><td>" + (n+1) + "</td>";
+                    str +="<td>" + data.judul + "</td>";
+                    str +="<td class='tables'>" + data.kategori + "</td>";
+                    str +="<td class='tables'>" + data.waktu_publish + "</td>";
+                    str +="<td class='tables'>" + data.waktu_scraping + "</td></tr>";
+                });
+                str +="</table>";
+                $('#Hasil_json').html(str);
+            });
+        });
+    </script>
+</html>
+
 
 
     

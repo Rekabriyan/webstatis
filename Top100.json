@@ -1,0 +1,702 @@
+[
+      {
+            "Rangking": "1",
+            "Judul": "Hati-Hati di Jalan",
+            "Penyanyi": "Tulus",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w180h180/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzY4ZjE4YTE3M2NhYjQ0YTYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "2",
+            "Judul": "Bertahan Terluka",
+            "Penyanyi": "Fabio Asher",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2Q4ZWUyYzZjYTk5MDc4NmUvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "3",
+            "Judul": "Merasa Indah",
+            "Penyanyi": "Tiara Andini",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzBkZjVjNjFhZDhiN2MyYzYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "4",
+            "Judul": "Sisa Rasa",
+            "Penyanyi": "Mahalini",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2Y5MDY3ZDcyMzgyMDVjNTcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "5",
+            "Judul": "Diri",
+            "Penyanyi": "Tulus",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzY4ZjE4YTE3M2NhYjQ0YTYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "6",
+            "Judul": "BILA NANTI",
+            "Penyanyi": "Nabila Maharani",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzA4YzI1ZDg2NTA5ODcxMzYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "7",
+            "Judul": "MELEPAS LAJANG",
+            "Penyanyi": "Arvian Dwi",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzA4ODM2YTcxYTRmZDhiZWEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "8",
+            "Judul": "Sahabat Dulu (From Layangan Putus)",
+            "Penyanyi": "Prinsa Mandagie",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzZjY2MwNmU2NjhmMWE1NGUvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "9",
+            "Judul": "Janji Kita",
+            "Penyanyi": "Nuca",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzc5ZDdjNjU0MGNmZjg3ZjYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "10",
+            "Judul": "Salah",
+            "Penyanyi": "Rizky Febian",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzMxODM5ZTc5MjBmYjExM2YvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "11",
+            "Judul": "Yang Terdalam",
+            "Penyanyi": "NOAH",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzNkZDAxYmMwNmZjODFjODgvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "12",
+            "Judul": "Tutur Batin",
+            "Penyanyi": "Yura Yunita",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2IyMTc3N2UxNmUzMzlkNjgvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "13",
+            "Judul": "Mengapa Harus Berpisah",
+            "Penyanyi": "Tri Suaka",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2U0OGJiNjRkYmM5NmY4NTgvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "14",
+            "Judul": "Runtuh",
+            "Penyanyi": "Feby Putri",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2U2Zjc0NjFmZGU4MDRkN2MvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "15",
+            "Judul": "Roman Picisan",
+            "Penyanyi": "Ahmad Dhani",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2Y2ZWVlZjJhYmUxMmZkNmMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "16",
+            "Judul": "Tujuh Belas",
+            "Penyanyi": "Tulus",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzY0NGJjOTY5NTIzOGQyMWMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "17",
+            "Judul": "Kebutuhan Hati",
+            "Penyanyi": "Kaleb J",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzUxMDJlM2U3YWNmNzg1NWMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "18",
+            "Judul": "Menjadi Dia",
+            "Penyanyi": "Tiara Andini",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzBkZjVjNjFhZDhiN2MyYzYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "19",
+            "Judul": "Bintang di Surga",
+            "Penyanyi": "NOAH",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzhhNzg0YmFmMTA5ZmEyNzkvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "20",
+            "Judul": "Jatuh Suka",
+            "Penyanyi": "Tulus",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzY4ZjE4YTE3M2NhYjQ0YTYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "21",
+            "Judul": "Takut",
+            "Penyanyi": "Idgitaf",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2M1MmE0ZmMxODc4YjIxZmIvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "22",
+            "Judul": "Bagaimana Kalau Aku Tidak Baik Baik Saja",
+            "Penyanyi": "Judika",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzNlZTdmZGY4NTgxNzIyYjgvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "23",
+            "Judul": "Ajarkan Aku (Acoustic version)",
+            "Penyanyi": "Arvian Dwi Pangestu",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzY2NDhjYWJlZDg0YThlZTIvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "24",
+            "Judul": "Menghapus Jejakmu",
+            "Penyanyi": "NOAH",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzk2NDQzOGUxZGY2NDhjZGMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "25",
+            "Judul": "Jalan Tengah",
+            "Penyanyi": "Naura Ayu",
+            "Album": "https://s.isanook.com/sr/0/rp/rc/w0h0/ya0xacm1w0/aHR0cDovL2pvb3gtY21zLWltYWdlLTEyNTEzMTYxNjEuZmlsZS5teXFjbG91ZC5jb20vMjAyMS8xMC8yMi8wOTZmMjA0Mi00MTRlLTQ2ODUtYTQwMS1hMmM1YTFiYWQzYTguanBnLzEwMDAuanBn.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "26",
+            "Judul": "Mengapa Harus Berpisah",
+            "Penyanyi": "Nabila Maharani",
+            "Album": "https://s.isanook.com/sr/0/rp/rc/w0h0/ya0xacm1w0/aHR0cDovL2pvb3gtY21zLWltYWdlLTEyNTEzMTYxNjEuZmlsZS5teXFjbG91ZC5jb20vMjAyMi8wMi8xNi80YzdlYTY0ZC1kYjhhLTRjZTgtOTk3Yi1lYzZhMmFjMDhlYTIuanBnLzEwMDAuanBn.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "27",
+            "Judul": "Bisa Tanpamu",
+            "Penyanyi": "Andmesh",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzFhYmZmZTJlODY1ZjY2OTUvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "28",
+            "Judul": "Tabu (OST Amstel)",
+            "Penyanyi": "Brisia Jodie",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzUyNTAwODc1YjQwMGU4ZGEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "29",
+            "Judul": "Terlalu Berharap (From \"Love Knots\")",
+            "Penyanyi": "Rossa",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2M4NTFhY2ZmOTMwNTY1NWYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "30",
+            "Judul": "Cinta Sederhana",
+            "Penyanyi": "Raisa",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzVmODgyZjg0MWYxODE1MTQvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "31",
+            "Judul": "Hanya Singgah",
+            "Penyanyi": "Prinsa Mandagie",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2VjMWJhMWUwMjliNjY5MDQvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "32",
+            "Judul": "Janji Setia",
+            "Penyanyi": "Tiara Andini",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzBkZjVjNjFhZDhiN2MyYzYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "33",
+            "Judul": "Dara",
+            "Penyanyi": "Vidi Aldiano",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2E0ZDRlZTZlYTMzMDMzNTcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "34",
+            "Judul": "Ego",
+            "Penyanyi": "Andmesh",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzJlN2IxOWJlM2NlMmM1YzUvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "35",
+            "Judul": "Lentera",
+            "Penyanyi": "Lesti",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzBjZDE1N2ZlNDdmMWNjMjMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "36",
+            "Judul": "Kau Rumahku",
+            "Penyanyi": "raissa anggiani",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzk0ZTk4MWJjNWUyYTBkMzkvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "37",
+            "Judul": "Takkan Berhenti Mencintaimu",
+            "Penyanyi": "Anneth",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2QxMDk1NDU0MzI4NWZmYzEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "38",
+            "Judul": "Pesan Terakhir",
+            "Penyanyi": "Lyodra",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2RmZjdkYjg5MjFmOTU0YzcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "39",
+            "Judul": "Overthinking",
+            "Penyanyi": "Marion Jola",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzJlMDk2MjUzNWNiZjNlYWEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "40",
+            "Judul": "Please Baby Please",
+            "Penyanyi": "Pamungkas",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzViYzE3MjIwOWExMjUwZDQvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "41",
+            "Judul": "Tersanjung (From \"Tersanjung The Series\")",
+            "Penyanyi": "Bunga Citra Lestari",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzY3NmQ2YjAzOTdhOTJlMTkvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "42",
+            "Judul": "Separuh",
+            "Penyanyi": "Jemimah Cita",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2ZkYjdiNGY3NzM3ZjQ4MDIvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "43",
+            "Judul": "Langit Favorit",
+            "Penyanyi": "Luthfi Aulia",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2MxOGFiZjcyYjIzZDg2MTQvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "44",
+            "Judul": "Rungokno Aku",
+            "Penyanyi": "Ndarboy Genk",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2ZkZDZkNWExNWJlZWI1NWMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "45",
+            "Judul": "Karena Wanita",
+            "Penyanyi": "Judika",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzQ3MDcxNWY1MTA5NDY1OTcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "46",
+            "Judul": "Rumah",
+            "Penyanyi": "Dere",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2QwMzRkNmZmMWYyMzFhODEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "47",
+            "Judul": "Benar Orang Bilang",
+            "Penyanyi": "Jaz",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2QzNzVhYWQ1ZGM3NWYzOTEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "48",
+            "Judul": "Impas",
+            "Penyanyi": "Geisha",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2NlY2Y0NTI3NGExMTNiZDMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "49",
+            "Judul": "Semoga Sembuh",
+            "Penyanyi": "Idgitaf",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzUyOGRmYWY5MjAwZjgxYTkvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "50",
+            "Judul": "Trust Me With This (Mama)",
+            "Penyanyi": "Pamungkas",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzM3OWVhY2IzMjg2ZDM5NTgvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "51",
+            "Judul": "Rantau",
+            "Penyanyi": "Feby Putri",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2QxYzJjMDkyZjViODhmZTMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "52",
+            "Judul": "Satu Frekuensi",
+            "Penyanyi": "Govinda",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzQ0OTNmYmQzMTZiZDAwYzcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "53",
+            "Judul": "Sinema",
+            "Penyanyi": "Fiersa Besari",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2JlZjk4ZTRlYmYxZWZkZjkvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "54",
+            "Judul": "Menunggu Kau Kembali",
+            "Penyanyi": "Rimar",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2Q4MzI5ODRlZTA1YjAyMDQvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "55",
+            "Judul": "Birdy (Explicit)",
+            "Penyanyi": "Pamungkas",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzllZWNkY2I2Yjk3ZmU5MjAvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "56",
+            "Judul": "Bila Kemarin",
+            "Penyanyi": "Yotari",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzc2YTRmMjkwMDI2M2I5YjcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "57",
+            "Judul": "Selalu Bersama",
+            "Penyanyi": "RAN",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzIxYTYxMDJkNjA2NjkzNjYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "58",
+            "Judul": "Tak Mau Sendiri",
+            "Penyanyi": "Kaleb J",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzRiMGYyMzhhMmEzNTExMDMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "59",
+            "Judul": "Ambyar Mak Pyar",
+            "Penyanyi": "Ndarboy Genk",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzU2MWQ2YmU4ZTJlZDEyMjQvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "60",
+            "Judul": "Ingin Bertemu Lagi",
+            "Penyanyi": "Fatin",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzlhYzE0ZDYxZDgwZjY3ZjYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "61",
+            "Judul": "Someday (feat. Sam Kim)",
+            "Penyanyi": "Sam Kim",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzY2NjM2NTBhZTBjYTQxMmMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "62",
+            "Judul": "Ain't No MF (feat. pH-1) (Explicit)",
+            "Penyanyi": "Ramengvrl",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzQ0NmVhODliZmQ4ZDc5ZjcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "63",
+            "Judul": "Melawan Restu",
+            "Penyanyi": "Mahalini",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2FmYWEyMWQ4ZTFkNWQ0NzcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "64",
+            "Judul": "Terluka Menginginkanmu",
+            "Penyanyi": "Mark Natama",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzViMjgyNGM0MDlmNmUwODMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "65",
+            "Judul": "Ingkar",
+            "Penyanyi": "Tulus",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzZmYWEyOGE0YjA3NDgwY2MvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "66",
+            "Judul": "Picture Myself",
+            "Penyanyi": "STEPHANIE POETRI",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzViYTQ1NzRmZDNjMGM1NjcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "67",
+            "Judul": "Keep It Hush",
+            "Penyanyi": "Esther Geraldine",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzk2ZDkxMGIzMmQzMjQwNGQvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "68",
+            "Judul": "Tanggung Jawab",
+            "Penyanyi": "Juicy Luicy",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2M4MjI1NzA2YzA1ZmMxN2YvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "69",
+            "Judul": "Kinari (versi Lovinka Alexander)",
+            "Penyanyi": "Dee Lestari",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2U4YmIxOTcwN2ZhNWVkMDIvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "70",
+            "Judul": "Kalau Bosan",
+            "Penyanyi": "Lyodra",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2RmZjdkYjg5MjFmOTU0YzcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "71",
+            "Judul": "Kau Yang Tak Pernah Tahu (feat. Fariz RM)",
+            "Penyanyi": "D'MASIV",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzViM2NhODI0YWNjNjU2YWIvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "72",
+            "Judul": "Sampai Akhir Zaman",
+            "Penyanyi": "Armand Maulana",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzc4Y2E1NzRiYTEwZjI0N2UvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "73",
+            "Judul": "Mencinta Hati Yang Tak Cinta",
+            "Penyanyi": "Arsy Widianto",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2NjOTQ5YTJmMzE5NDVhZmEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "74",
+            "Judul": "Terlukis Indah",
+            "Penyanyi": "Ziva Magnolya",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzdjYzk0NGViYjA3Yjg3YTcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "75",
+            "Judul": "Aku Bukan Jodohnya",
+            "Penyanyi": "Tri Suaka",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2VjMWQwYmJjMjdkMDg3Y2YvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "76",
+            "Judul": "Pesona - Sounds Cute, Might Delete Later (Desember)",
+            "Penyanyi": "Sun Eater",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2M1ZDg4ZTI4ODNjYmI5MGYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "77",
+            "Judul": "Jakarta (Feat. Diskoria)",
+            "Penyanyi": "Diskoria",
+            "Album": "https://s.isanook.com/sr/0/rp/rc/w0h0/ya0xacm1w0/aHR0cDovL2pvb3gtY21zLWltYWdlLTEyNTEzMTYxNjEuZmlsZS5teXFjbG91ZC5jb20vMjAyMS8xMS8xOS80MTIyN2JjNi0xZjU5LTQyYTAtOGU3Mi02MDI0OGMyMGVmMTMuanBnLzEwMDAuanBn.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "78",
+            "Judul": "Benang-Benang Asmara",
+            "Penyanyi": "Andien",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzA4MmQ5NDZlN2U5ZTIwODEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "79",
+            "Judul": "Mesin Waktu",
+            "Penyanyi": "Budi Doremi",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzg1MTExM2VhOTNmMjZkYzIvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "80",
+            "Judul": "Takdir Cinta",
+            "Penyanyi": "Rizky Billar",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzdmOTRjNTVmODJiYzI1NTUvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "81",
+            "Judul": "Maju (Explicit)",
+            "Penyanyi": ".Feast",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzlmOTgwMzdmNTA1ZTJkOGYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "82",
+            "Judul": "Rahasia Tuhan",
+            "Penyanyi": "Amanda Manopo",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzQzOWMzODkwZWU1ZGU5MTUvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "83",
+            "Judul": "Awal Mula",
+            "Penyanyi": "Dee Lestari",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzhlZTNiYWE2ZjEzYmJhZmEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "84",
+            "Judul": "Masa Masa",
+            "Penyanyi": "Ardhito Pramono",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzIzNTBjNTc5NmE2ZjI4NTkvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "85",
+            "Judul": "Timeless",
+            "Penyanyi": "Pamungkas",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzAyYmYzYWQzYjJmNDYwMTEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "86",
+            "Judul": "100 (Satu Kosong Kosong) Feat. HIVI!",
+            "Penyanyi": "HIVI!",
+            "Album": "https://s.isanook.com/sr/0/rp/rc/w0h0/ya0xacm1w0/aHR0cDovL2pvb3gtY21zLWltYWdlLTEyNTEzMTYxNjEuZmlsZS5teXFjbG91ZC5jb20vMjAyMS8xMS8xMi9kMDg4NGUzOC1hOGJlLTRiOGUtYmFhOC05MzkzZmQxODRjN2UuanBnLzEwMDAuanBn.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "87",
+            "Judul": "Want Ur Love",
+            "Penyanyi": "Sheryl Sheinafia",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzJjZjJhYjQxMTljZTExOTYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "88",
+            "Judul": "Dear Jane",
+            "Penyanyi": "Prince Husein",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzlkZjMyOWUzNmRmM2U3MmIvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "89",
+            "Judul": "Cinta Ini Milik Kita",
+            "Penyanyi": "Judika",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2YzZmE1ZmYxOTgyZDczMDEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "90",
+            "Judul": "Superwoman",
+            "Penyanyi": "Eka Gustiwana",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2E2YzVlOWRkMTE2OTk1YjQvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "91",
+            "Judul": "Mistikus Cinta",
+            "Penyanyi": "Vina Panduwinata",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzJmMTVhZTA3ZjliNzI4OGYvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "92",
+            "Judul": "Tak Kuduga",
+            "Penyanyi": "Yura Yunita",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2Q0NDVhZTU4Y2RjNWY0NzcvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "93",
+            "Judul": "Bahagia Bersamamu",
+            "Penyanyi": "Haico",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzRiYzc3ZWMzMTUxYTRjMjQvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "94",
+            "Judul": "Selamat",
+            "Penyanyi": "Iwan Fals",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2Y1YmEzOTUwMGFkYWE0NGEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "95",
+            "Judul": "Semestinya.",
+            "Penyanyi": "Teddy Adhitya",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2VhZWQ5NTVlMDk4YjdjMjQvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "96",
+            "Judul": "Hingga Kau Tersenyum",
+            "Penyanyi": "Adera",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2Q5MzlkNWYyOGExNGZlMDkvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "97",
+            "Judul": "Risalah Hati",
+            "Penyanyi": "Pamungkas",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzAzOWZlNWY0YTQ5MDVmMDAvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "98",
+            "Judul": "Wanita",
+            "Penyanyi": "Rossa",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2M1YmE3OGQ4MjE1YzQwMmMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "99",
+            "Judul": "Sim Salabim",
+            "Penyanyi": "Nassar",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wLzZmMzk5Y2UxYzkwZDUwYjEvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      },
+      {
+            "Rangking": "100",
+            "Judul": "Ombak Banyu Asmara",
+            "Penyanyi": "The Panturas",
+            "Album": "https://s.isanook.com/jo/0/rp/rc/w100h100/ya0xa0m1w0/aHR0cDovL2ltYWdlLmpvb3guY29tL0pPT1hjb3Zlci8wL2U4ODI5YTIzY2QzZTIzMGMvMTAwLmpwZw==.jpg",
+            "Waktu_scrapping": "2022-03-20 00:29:25"
+      }
+]

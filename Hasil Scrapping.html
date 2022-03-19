@@ -12,8 +12,8 @@
         $(function(){
             //mengambil data dari file json
             $.get('Hasil.json',function(obj){
-                var str = "<table border=1>";
-                str +="<tr><td>No</td><td class='tables'>Judul Headline</td><td class='tables'>Kategori</td><td class='tables'>Waktu Publish</td><td class='tables'>Waktu Scrapping</td></tr>";
+                var str = "<table border=5>";
+                str +="<p><tr><td>No</td><td class='tables'>Judul Headline</td><td class='tables'>Kategori</td><td class='tables'>Waktu Publish</td><td class='tables'>Waktu Scrapping</td></tr></p>";
                 $.each(obj,function(n,data){
                     str +="<tr><td>" + (n+1) + "</td>";
                     str +="<td>" + data.judul + "</td>";
